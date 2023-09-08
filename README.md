@@ -5,7 +5,7 @@ The dataset includes 2135 images in seven different themes: ‘animal’, ‘bui
 
 ## animal images
 
-!(https://github.com/cuijia1247/smartIR/blob/main/readmeImgs/animal.png "animal image structure")
+![animal structure](https://github.com/cuijia1247/smartIR/readmeImgs/animal.png)
 
 For each image included in the proposed SMART dataset, two designers are invited to independently retarget the image from the original size of 640*480 to the desired size of 320*480 based on their aesthetic preferences. There are no additional rules for designers to minimize the image size, but the preservation of key information and visually pleasing effects is essential. Subsequently, the results of the two designers results are evaluated by a third designer to select the better one as the ground truth for image retargeting. More than 70% of images retargeted by both designers display a high degree of consistency, indicating a stable design aesthetic. For the remaining less than 30%, the third designer is required to make decisions according to the standard of preservation of image information.
 
