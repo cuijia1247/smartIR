@@ -5,7 +5,7 @@ The dataset includes 2135 images in seven different themes: ‘animal’, ‘bui
 
 ## animal images
 
-  | animal 
+      | animal 
  ---- | -----   
  content  | 单元格内容 | 单元格内容 
           | 
